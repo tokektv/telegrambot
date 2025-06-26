@@ -1,0 +1,4 @@
+config config 'config'
+	option token ''
+	option chat_id ''
+	option router_id ''
